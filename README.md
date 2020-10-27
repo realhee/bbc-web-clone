@@ -16,8 +16,8 @@ Website link : https://www.bbc.com/korean/resources/idt-48d3c9a7-4063-4289-9726-
  - getBoundingClientRect() 함수로 position 가져오기
  - activate & inactivate 동작을 위한 함수형 프로그래밍
  - 불필요한 루프를 줄이기 위한 Intersection Observer 사용
-        --> 눈에 보이는 항목만 제어하기
-        --> 범위 안에서 사라지거나 생겨날 때 호출
+       > 눈에 보이는 항목만 제어하기
+       > 범위 안에서 사라지거나 생겨날 때 호출
 
  3. animation 기능 추가
  - dataset.(attr)를 통한 data-action 추가
