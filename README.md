@@ -18,3 +18,8 @@ Website link : https://www.bbc.com/korean/resources/idt-48d3c9a7-4063-4289-9726-
  - 불필요한 루프를 줄이기 위한 Intersection Observer 사용
         --> 눈에 보이는 항목만 제어하기
         --> 범위 안에서 사라지거나 생겨날 때 호출
+
+ 3. animation 기능 추가
+ - dataset.(attr)를 통한 data-action 추가
+ - will-change를 통한 브라우저에 변화 알려주기
+ - setTimeout()을 통해 reload 시 scroll 초기화하기
