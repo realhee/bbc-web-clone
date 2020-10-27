@@ -7,7 +7,7 @@ Website link : https://www.bbc.com/korean/resources/idt-48d3c9a7-4063-4289-9726-
 1. 기본 format 작성
  - Flex Container를 통한 수직 스크롤 효과
  - justify-content를 통한 main-axis 정렬 방법 설정
- - "position = sticky"를 통한 인터랙티브 효과 적용
+ - position = sticky를 통한 인터랙티브 효과 적용
  - HTML tag 순서에 따른 z-index 제어
 
  2. main.js 작성
